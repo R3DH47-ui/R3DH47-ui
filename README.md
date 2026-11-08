@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e4429,100:00ff41&height=220&section=header&text=R3dh47&fontSize=70&fontColor=00ff41&fontAlignY=38&desc=Frontend%20Dev%20%7C%20Cybersecurity%20%26%20Networking%20Explorer&descAlignY=58&descSize=18&descColor=39ff14&animation=fadeIn" alt="header banner"/>
+<img src="https://raw.githubusercontent.com/r3dh47-ui/r3dh47-ui/main/assets/header.svg" alt="R3DH47-ui header banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Turning+packets+into+pixels+by+day...;%3E+Exploring+cybersecurity+vulnerabilities+by+night...;%3E+Wake+up%2C+Neo...+the+matrix+has+you+%F0%9F%92%8A;%3E+Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
 
@@ -106,7 +106,7 @@ fun_fact:   "Turning packets into pixels by day, hunting vulnerabilities by nigh
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f2027&height=120&section=footer" alt="footer wave"/>
+<img src="https://raw.githubusercontent.com/r3dh47-ui/r3dh47-ui/main/assets/footer.svg" alt="matrix footer banner" width="100%"/>
 
 <i>Thanks for stopping by — feel free to explore my pinned repos and reach out! 🚀</i>
 
