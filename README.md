@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/r3dh47-ui/r3dh47-ui/main/assets/header.svg" alt="R3DH47-ui header banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/r3dh47-ui/r3dh47-ui/main/assets/header.svg?v=1" alt="R3DH47 - Full Stack Developer x Cybersecurity Enthusiast" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Turning+packets+into+pixels+by+day...;%3E+Exploring+cybersecurity+vulnerabilities+by+night...;%3E+Wake+up%2C+Neo...+the+matrix+has+you+%F0%9F%92%8A;%3E+Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Turning+packets+into+pixels+by+day...;%3E+Building+secure+full-stack+web+apps...;%3E+Exploring+cybersecurity+vulnerabilities+by+night...;%3E+Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=r3dh47-ui&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/r3dh47-ui?label=Followers&style=for-the-badge&color=00ff41&logo=github" alt="followers" />
@@ -11,12 +11,9 @@
 
 <br/>
 
-<!-- 🐍 Matrix-style contribution snake — dynamic, regenerates on every push via GitHub Actions -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/r3dh47-ui/r3dh47-ui/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
 </div>
-
-> ⚙️ **Setup note:** the snake animation above needs a one-time GitHub Action (it's what makes it move/regenerate automatically). See the **"Make it live"** section at the bottom — it's copy-paste, ~2 minutes.
 
 <br/>
 
@@ -24,19 +21,32 @@
 
 ```yaml
 whoami:     R3dh47
-role:       Frontend Developer | Cybersecurity & Networking Explorer
-learning:   [C, JavaScript, Networking, Website & APK Development]
+role:       Full Stack Developer (in progress) x Cybersecurity Student
+education:  B.Sc. Cybersecurity - 1st Year
+focus:      [Web Development, Networking, Ethical Hacking]
+learning:   [C, JavaScript, Linux, Web Security, APK Development]
 ask_me:     Networking
 contact:    r3dhat404@gmail.com
-fun_fact:   "Turning packets into pixels by day, hunting vulnerabilities by night 🛡️💻"
+motto:      "Build secure. Break ethically. Ship fast."
 ```
 
 <div align="center">
 
-<a href="https://instagram.com/ogpain00" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:r3dhat404@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+<!-- Uncomment and edit these once ready:
+<a href="https://www.linkedin.com/in/YOUR-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://YOUR-PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41" alt="Portfolio"/></a>
+-->
 
 </div>
+
+<br/>
+
+## 🧭 What I Do
+
+- 💻 **Build** - responsive web apps and admin dashboards in JavaScript (see projects below)
+- 🔐 **Secure** - learning networking, Linux and web-app security in legal lab environments
+- 🎯 **Goal** - more full-stack projects + hands-on security practice (CTFs, labs)
 
 <br/>
 
@@ -44,7 +54,7 @@ fun_fact:   "Turning packets into pixels by day, hunting vulnerabilities by nigh
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=android,c,css,html,linux,python,unity,js,git&theme=dark" alt="tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,linux,bash,git,github,vscode,android,unity&theme=dark" alt="tech stack icons"/>
 
 </div>
 
@@ -65,16 +75,6 @@ fun_fact:   "Turning packets into pixels by day, hunting vulnerabilities by nigh
 
 <br/>
 
-## 🏅 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=r3dh47-ui&theme=matrix&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="trophies"/>
-
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -82,74 +82,36 @@ fun_fact:   "Turning packets into pixels by day, hunting vulnerabilities by nigh
 <table>
 <tr>
 <td width="50%">
-
-<a href="https://github.com/r3dh47-ui/repo-one">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=r3dh47-ui&repo=repo-one&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_radius=12" alt="Featured Project 1"/>
+<a href="https://github.com/r3dh47-ui/civic-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=r3dh47-ui&repo=civic-app&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_radius=12" alt="civic-app"/>
 </a>
-
 </td>
 <td width="50%">
-
-<a href="https://github.com/r3dh47-ui/repo-two">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=r3dh47-ui&repo=repo-two&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_radius=12" alt="Featured Project 2"/>
+<a href="https://github.com/r3dh47-ui/RIMT-BCA-APP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=r3dh47-ui&repo=RIMT-BCA-APP&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_radius=12" alt="RIMT-BCA-APP"/>
 </a>
-
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/r3dh47-ui/rimt-admin-portal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=r3dh47-ui&repo=rimt-admin-portal&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_radius=12" alt="rimt-admin-portal"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/r3dh47-ui/FRONTEND-RIMT-APP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=r3dh47-ui&repo=FRONTEND-RIMT-APP&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_radius=12" alt="FRONTEND-RIMT-APP"/>
+</a>
 </td>
 </tr>
 </table>
 
 </div>
 
-> ✏️ Replace `repo-one` / `repo-two` with your real, case-sensitive repo names. Add more `<td>` cells (2 per `<tr>`) for extra projects — 4–6 total keeps the grid clean.
-
 <br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/r3dh47-ui/r3dh47-ui/main/assets/footer.svg" alt="matrix footer banner" width="100%"/>
-
-<i>Thanks for stopping by — feel free to explore my pinned repos and reach out! 🚀</i>
+<img src="https://raw.githubusercontent.com/r3dh47-ui/r3dh47-ui/main/assets/footer.svg?v=1" alt="Build secure. Break ethically. Ship fast." width="100%"/>
 
 </div>
-
----
-
-<details>
-<summary>⚡ Make the snake animation live (one-time, ~2 min)</summary>
-
-<br/>
-
-1. In your **profile repo** (`r3dh47-ui/r3dh47-ui`), go to **Settings → Actions → General** and make sure Actions are enabled.
-2. Create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: r3dh47-ui
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Push it — the Action creates an `output` branch with the SVG, which is exactly what the `<img>` at the top of this README points to. It'll regenerate every 6 hours automatically.
-
-</details>
